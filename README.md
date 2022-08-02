@@ -2,3 +2,4 @@
 
 <p> Dia 1: Operações Booleanas <br>
 <p> Dia 2: Variáveis 
+<p> Dia 3: Fluxo de Decisão
