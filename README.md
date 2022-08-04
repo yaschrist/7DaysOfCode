@@ -6,3 +6,4 @@
 <p> Dia 4: Mais loops e randomização
 <p> Dia 5: Arrays e coleções
 <p> Dia 6: Remoção de Arrays
+<p> Dia 7: Funções em JavaScript
