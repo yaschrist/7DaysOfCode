@@ -4,3 +4,5 @@
 <p> Dia 2: Variáveis 
 <p> Dia 3: Fluxo de Decisão
 <p> Dia 4: Mais loops e randomização
+<p> Dia 5: Arrays e coleções
+<p> Dia 6: Remoção de Arrays
